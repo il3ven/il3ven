@@ -7,7 +7,11 @@ I love 🤍 all levels of computer science. I'll clasify myself as a self taught
 Projects that tackle some complex problems. Or provide solution to a real life problem. It is a bonus if I am personally affected by the problem.
 
 #### 📫 How to reach me: ...
-<table>
+<img src="https://github.com/il3ven/il3ven/blob/master/assets/twitter.svg" style="vertical-align:-30%" height="24" width="24" > [Twitter](https://twitter.com/il3ven) 
+&nbsp; 
+<img src="https://github.com/il3ven/il3ven/blob/master/assets/linkedin.svg" style="vertical-align:-30%" height="24" width="24" > [LinkedIn](https://twitter.com/il3ven)
+
+<!-- <table>
 <tbody>
 <tr>
 <td>
@@ -20,7 +24,7 @@ Projects that tackle some complex problems. Or provide solution to a real life p
 </td>
 </tr>
 </tbody>
-</table>
+</table> -->
 
 <!--
 **il3ven/il3ven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
