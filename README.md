@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hi, I am il3ven (Eleven) (he/him) 👋
 
+### About Me
+I love 🤍 all levels of computer science. I'll clasify myself as a self taught engineer. I am also pursuing a computer science degree which is expected to be completed in 2021. Technology is my first love and science is the second.
+
+#### 👯 I’m looking to collaborate on ...
+Projects that tackle some complex problems. Or provide solution to a real life problem. It is a bonus if I am personally affected by the problem.
+
+#### 📫 How to reach me: ...
+![Profile](https://www.pinclipart.com/picdir/big/74-740310_transparent-background-twitter-logo-clipart.png) Twitter
 <!--
 **il3ven/il3ven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
