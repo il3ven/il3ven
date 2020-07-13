@@ -6,10 +6,11 @@ I love 🤍 all levels of computer science. I'll clasify myself as a self taught
 #### 👯 I’m looking to collaborate on ...
 Projects that tackle some complex problems. Or provide solution to a real life problem. It is a bonus if I am personally affected by the problem.
 
-#### 📫 How to reach me: ...
-[![Twitter](https://img.shields.io/twitter/url?color=1DA1F2&label=Follow&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fil3ven)](https://twitter.com/il3ven)
-[![Twitter](https://img.shields.io/twitter/url?color=2867B2&label=Connect&logo=linkedin&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fil3ven)](https://www.linkedin.com/in/vaibhav-chanana/)
-
+#### 📫 Reach me:
+[![Twitter](https://img.shields.io/twitter/url?color=1DA1F2&label=Follow&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fil3ven)](https://twitter.com/il3ven) [![Linkedin](https://img.shields.io/twitter/url?color=2867B2&label=Connect&logo=linkedin&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fil3ven)](https://www.linkedin.com/in/vaibhav-chanana/)
+[![Email](https://img.shields.io/twitter/url?label=Email&logo=gmail&logoColor=white&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fil3ven)](mailto:to.vc95@gmail.com)
+___
+*Available for hire* 👨‍💻
 <!-- <table>
 <tbody>
 <tr>
