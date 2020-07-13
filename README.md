@@ -1,6 +1,6 @@
 ## Hi, I am il3ven (Eleven) (he/him) 👋
 
-<img align='right' src='assets/noise.gif' width='200"'>
+<img align='right' src='https://raw.githubusercontent.com/il3ven/il3ven/master/assets/noise.gif' width='200"'>
 
 ### About Me
 I love 🤍 all levels of computer science. I'll clasify myself as a self taught engineer. I am also pursuing a computer science degree which is expected to be completed in 2021. Technology is my first love and science is the second.
