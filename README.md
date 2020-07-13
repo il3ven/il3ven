@@ -7,7 +7,21 @@ I love 🤍 all levels of computer science. I'll clasify myself as a self taught
 Projects that tackle some complex problems. Or provide solution to a real life problem. It is a bonus if I am personally affected by the problem.
 
 #### 📫 How to reach me: ...
-![Profile](https://www.pinclipart.com/picdir/big/74-740310_transparent-background-twitter-logo-clipart.png) Twitter
+<table>
+<tbody>
+<tr>
+<td>
+<a href = "https://twitter.com/il3ven"> <img src="assets/twitter.svg" style="vertical-align: -30%;" height="26" width="26" ></a>
+<a href = "https://twitter.com/il3ven">Twitter</a> 
+</td>
+<td>
+<a href = "https://twitter.com/il3ven"><img src="assets/linkedin.svg" style="vertical-align: -30%;" height="24" width="24" ></a>
+<a href = "https://twitter.com/il3ven">LinkedIn</a> 
+</td>
+</tr>
+</tbody>
+</table>
+
 <!--
 **il3ven/il3ven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
