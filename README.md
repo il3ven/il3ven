@@ -7,9 +7,8 @@ I love 🤍 all levels of computer science. I'll clasify myself as a self taught
 Projects that tackle some complex problems. Or provide solution to a real life problem. It is a bonus if I am personally affected by the problem.
 
 #### 📫 How to reach me: ...
-<img src="https://github.com/il3ven/il3ven/blob/master/assets/twitter.svg" style="vertical-align:-30%" height="24" width="24" > [Twitter](https://twitter.com/il3ven) 
-&nbsp; 
-<img src="https://github.com/il3ven/il3ven/blob/master/assets/linkedin.svg" style="vertical-align:-30%" height="24" width="24" > [LinkedIn](https://twitter.com/il3ven)
+[![Twitter](https://img.shields.io/twitter/url?color=1DA1F2&label=Follow&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fil3ven)](https://twitter.com/il3ven)
+[![Twitter](https://img.shields.io/twitter/url?color=2867B2&label=Connect&logo=linkedin&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fil3ven)](https://www.linkedin.com/in/vaibhav-chanana/)
 
 <!-- <table>
 <tbody>
