@@ -1,4 +1,5 @@
 ## Hi, I am il3ven (Eleven) (he/him) 👋
+![Alt text](https://banner-api.vercel.app/api/main)
 
 <img align='right' src='https://raw.githubusercontent.com/il3ven/il3ven/master/assets/noise.gif' width='200"'>
 
@@ -13,20 +14,6 @@ Projects that tackle some complex problems. Or provide solution to a real life p
 [![Email](https://img.shields.io/twitter/url?label=Email&logo=gmail&logoColor=white&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fil3ven)](mailto:to.vc95@gmail.com)
 ___
 *Available for hire* 👨‍💻
-<!-- <table>
-<tbody>
-<tr>
-<td>
-<a href = "https://twitter.com/il3ven"> <img src="assets/twitter.svg" style="vertical-align: -30%;" height="26" width="26" ></a>
-<a href = "https://twitter.com/il3ven">Twitter</a> 
-</td>
-<td>
-<a href = "https://twitter.com/il3ven"><img src="assets/linkedin.svg" style="vertical-align: -30%;" height="24" width="24" ></a>
-<a href = "https://twitter.com/il3ven">LinkedIn</a> 
-</td>
-</tr>
-</tbody>
-</table> -->
 
 <!--
 **il3ven/il3ven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
