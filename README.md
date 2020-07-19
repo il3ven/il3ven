@@ -1,9 +1,7 @@
 ## Hi, I am il3ven (Eleven) (he/him) 👋
 <a href="https://il3ven-readme-api.vercel.app/api/index">
   <img src="https://il3ven-readme-api.vercel.app/api/index" alt="Hi there!">
- </a>
-
-<img align='right' src='https://raw.githubusercontent.com/il3ven/il3ven/master/assets/noise.gif' width='200"'>
+</a>
 
 ### About Me
 I love 🤍 all levels of computer science. I'll clasify myself as a self taught engineer. I am also pursuing a computer science degree which is expected to be completed in 2021. Technology is my first love and science is the second.
