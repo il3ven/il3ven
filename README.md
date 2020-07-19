@@ -1,5 +1,7 @@
 ## Hi, I am il3ven (Eleven) (he/him) 👋
-<img src="https://il3ven-readme-api.vercel.app/api/index" alt="Hi there!">
+<a href="https://il3ven-readme-api.vercel.app/api/index">
+  <img src="https://il3ven-readme-api.vercel.app/api/index" alt="Hi there!">
+ </a>
 
 <img align='right' src='https://raw.githubusercontent.com/il3ven/il3ven/master/assets/noise.gif' width='200"'>
 
