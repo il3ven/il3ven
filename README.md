@@ -1,5 +1,6 @@
-<img src="https://il3ven-readme-api.vercel.app/api/index" alt="Hi there!">
-<hr>
+<img src="https://il3ven-readme-api.vercel.app/api/index" width="100%" alt="Hi there!">
+
+___
 
 ### About Me
 I love 🤍 all levels of computer science. I'll clasify myself as a self taught engineer. I am also pursuing a computer science degree which is expected to be completed in 2021. Technology is my first love and science is the second.
