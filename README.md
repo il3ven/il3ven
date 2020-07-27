@@ -10,7 +10,7 @@ Projects that tackle some complex problems. Or provide solution to a real life p
 
 #### 📫 Reach me:
 [![Twitter](https://img.shields.io/twitter/url?color=1DA1F2&label=Follow&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fil3ven)](https://twitter.com/il3ven) [![Linkedin](https://img.shields.io/twitter/url?color=2867B2&label=Connect&logo=linkedin&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fil3ven)](https://www.linkedin.com/in/vaibhav-chanana/)
-[![Email](https://img.shields.io/twitter/url?label=Email&logo=gmail&logoColor=white&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fil3ven)](mailto:to.vc95@gmail.com)
+[![Email](https://img.shields.io/twitter/url?label=Email&logo=gmail&logoColor=white&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fil3ven)](mailto:vaibhavchanana@yahoo.co.in)
 ___
 *Available for hire* 👨‍💻
 
