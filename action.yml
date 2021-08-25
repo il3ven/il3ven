@@ -1,4 +1,4 @@
 name: "Update Readme"
 runs:
-  using: "node14"
+  using: "node12"
   main: "script.js"
