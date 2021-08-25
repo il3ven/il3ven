@@ -1,6 +1,7 @@
 const parser = require("fast-xml-parser");
 const https = require("https");
-const fs = require("fs/promises");
+const fs = require("fs").promises;
+const path = require("path");
 
 https
   .get("https://il3ven.hashnode.dev/rss.xml", (resp) => {
@@ -21,10 +22,13 @@ https
 
       console.log(articles);
 
-      const readme = await fs.readFile("./README.md", "utf-8");
+      const readme = await fs.readFile(
+        path.join(__dirname, "./README.md"),
+        "utf-8"
+      );
 
       await fs.writeFile(
-        "./README.md",
+        path.join(__dirname, "./README.md"),
         readme.replace(/(###.*blogs.*)/i, `$1\n\n${articles.join("\n")}`)
       );
     });

@@ -4,7 +4,7 @@
   "description": "Script to update Readme",
   "main": "script.js",
   "scripts": {
-    "build": "ncc build script.js -o dist"
+    "start": "node script.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,5 @@
   "dependencies": {
     "fast-xml-parser": "^3.19.0"
   },
-  "devDependencies": {
-    "@vercel/ncc": "^0.29.2"
-  }
+  "devDependencies": {}
 }

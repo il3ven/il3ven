@@ -17,6 +17,13 @@ jobs:
       - name: Run script to fetch RSS and update readme
         uses: ./
 
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+          cache: "npm"
+      - run: npm install
+      - run: npm start
+
       - name: Setup git config
         run: |
           # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
