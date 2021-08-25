@@ -3,17 +3,17 @@ on:
     branches:
       - master
   schedule:
-    - cron: '38 6 * * 6'
+    - cron: "38 6 * * 6"
 
 jobs:
   update_readme:
     runs-on: ubuntu-latest
-    name: A job to update Readme
+    name: Run action.yml, Commit and Push
     steps:
       # Checkout the branch
       - name: checkout
         uses: actions/checkout@v2
-        
+
       - name: Run script to fetch RSS and update readme
         uses: ./
 

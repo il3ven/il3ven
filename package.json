@@ -4,7 +4,7 @@
   "description": "Script to update Readme",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "ncc build script.js -o dist"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/il3ven/il3ven#readme",
   "dependencies": {
     "fast-xml-parser": "^3.19.0"
+  },
+  "devDependencies": {
+    "@vercel/ncc": "^0.29.2"
   }
 }

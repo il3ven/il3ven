@@ -1,4 +1,4 @@
 name: "Update Readme"
 runs:
   using: "node12"
-  main: "script.js"
+  main: "dist/index.js"
