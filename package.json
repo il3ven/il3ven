@@ -1,0 +1,22 @@
+{
+  "name": "il3ven",
+  "version": "1.0.0",
+  "description": "Script to update Readme",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/il3ven/il3ven.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/il3ven/il3ven/issues"
+  },
+  "homepage": "https://github.com/il3ven/il3ven#readme",
+  "dependencies": {
+    "fast-xml-parser": "^3.19.0"
+  }
+}
