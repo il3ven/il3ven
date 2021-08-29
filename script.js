@@ -29,7 +29,10 @@ https
 
       await fs.writeFile(
         path.join(__dirname, "./README.md"),
-        readme.replace(/(###.*blogs.*)/i, `$1\n\n${articles.join("\n")}`)
+        readme.replace(
+          /(### My last 3 blogs)(.*)(_Updated using GitHub Actions_ )/is,
+          `$1\n\n${articles.join("\n")}\n\n$3`
+        )
       );
     });
   })
