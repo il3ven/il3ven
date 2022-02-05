@@ -19,12 +19,9 @@ _Open to offers_ 👨‍💻
 
 ### My last 3 blogs
 
+1. [Your test cases should fail](https://il3ven.hashnode.dev/your-test-cases-should-fail)
 1. [Easily implement Infinite Scrolling using Intersection Observer in vanilla JavaScript](https://il3ven.hashnode.dev/easily-implement-infinite-scrolling-using-intersection-observer-in-vanilla-javascript)
 1. [Pythagorean triplet in an array - Interview Question](https://il3ven.hashnode.dev/pythagorean-triplet-in-an-array-interview-question)
-1. [Common Error: Accidentally Mutating State in React](https://il3ven.hashnode.dev/common-error-accidentally-mutating-state-in-react)
-
-### Want to discuss something?
-[Email me](mailto:to.vc95@gmail.com)
 
 _Updated using GitHub Actions_ ✍
 
