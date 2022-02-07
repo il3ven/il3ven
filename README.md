@@ -2,20 +2,22 @@
 
 ### About Me
 
-I love 🤍 all levels of computer science. I'll clasify myself as a self taught engineer. Technology is my first love and science is the second. Occasionaly I contribute to open source.
+I love 🤍 all levels of computer science. I'll clasify myself as a self taught engineer. Technology is my first love and science is the second. Occasionaly I contribute to [open source](https://github.com/search?q=is%3Apr+author%3Ail3ven).
 
 _Open to offers and collaboration_ 👨‍💻
 
 ### Projects I am proud of
 
 1. [Code Dump](https://github.com/il3ven/code-dump) - A modern pastebin alternative to share code fast. Made using React, MongoDb and Express.js.
-2. [Blogmaker](https://github.com/il3ven/blogmaker-github-actions) - A very simple solution to host your own blog. It's a fork of @vbuterin's blogmaker. Written in Python.
-3. [Express Simple Stats](https://github.com/il3ven/express-simple-stats) - NPM Library to count requests to your express.js routes. Use it for simple analytics.
-4. [Crowdfunding App](https://github.com/il3ven/Crowdfunding-App) - A decentralized crowdfuding platform. It was a practice project. Created using solidity smart contract and web3.
-5. [ETA for Vaccination](https://github.com/il3ven/ETA-for-vaccination) - A website that shows how long it will take to vaccinate the population of India. Made using React and TypeScript.
+2. [Rug Pull Index]() - A project of @timdaub that rates Ethereum tokens in order to prevent rug pulls. As part of open source, I have made a few contributions to it.
+3. [Blogmaker](https://github.com/il3ven/blogmaker-github-actions) - A very simple solution to host your own blog. It's a fork of @vbuterin's blogmaker. Written in Python.
+4. [Express Simple Stats](https://github.com/il3ven/express-simple-stats) - NPM Library to count requests to your express.js routes. Use it for simple analytics.
+5. [Crowdfunding App](https://github.com/il3ven/Crowdfunding-App) - A decentralized crowdfuding platform. It was a practice project. Created using solidity smart contract and web3.
+6. [ETA for Vaccination](https://github.com/il3ven/ETA-for-vaccination) - A website that shows how long it will take to vaccinate the population of India. Made using React and TypeScript.
 
+<!-- 
 ### Open source contributions
-My recent open source contributions have been at ethereum-org, rug-pull-index, highlight.js and more. For a complete list, visit [here](https://github.com/search?q=is%3Apr+author%3Ail3ven).
+My recent open source contributions have been at ethereum-org, rug-pull-index, highlight.js and more. For a complete list, visit [here](https://github.com/search?q=is%3Apr+author%3Ail3ven). -->
 
 ### Other fun but useless projects
 
