@@ -4,16 +4,17 @@
 
 I love 🤍 all levels of computer science. I'll clasify myself as a self taught engineer. Technology is my first love and science is the second. Occasionaly I contribute to [open source](https://github.com/search?q=is%3Apr+author%3Ail3ven).
 
-_Open to offers and collaboration_ 👨‍💻
+_Open to collaboration_ 👨‍💻
 
 ### Projects I am proud of
 
-1. [Code Dump](https://github.com/il3ven/code-dump) - A modern pastebin alternative to share code fast. Made using React, MongoDb and Express.js.
-2. [Rug Pull Index]() - A project of @timdaub that rates Ethereum tokens in order to prevent rug pulls. As part of open source, I have made a few contributions to it.
-3. [Blogmaker](https://github.com/il3ven/blogmaker-github-actions) - A very simple solution to host your own blog. It's a fork of @vbuterin's blogmaker. Written in Python.
-4. [Express Simple Stats](https://github.com/il3ven/express-simple-stats) - NPM Library to count requests to your express.js routes. Use it for simple analytics.
-5. [Crowdfunding App](https://github.com/il3ven/Crowdfunding-App) - A decentralized crowdfuding platform. It was a practice project. Created using solidity smart contract and web3.
-6. [ETA for Vaccination](https://github.com/il3ven/ETA-for-vaccination) - A website that shows how long it will take to vaccinate the population of India. Made using React and TypeScript.
+1. [Neume Network](https://github.com/neume-network) - A completely open source web3 music crawler. We designed an [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) like system that sends 300 requests per second, transforms the received data, and stores it in an embedded database. The transformation step included merging data from various sources and checking against existing data. In order to make the system performant and fault-tolerant, we implemented queues, concurrency, network retries with exponential back-off, and minimised DB queries. We also made the codebase extensible to crawl for more data sources in the future.
+2. [Code Dump](https://github.com/il3ven/code-dump) - A modern pastebin alternative to share code fast. Made using React, MongoDb and Express.js.
+3. [Rug Pull Index]() - A project of @timdaub that rates Ethereum tokens in order to prevent rug pulls. As part of open source, I have made a few contributions to it.
+4. [Blogmaker](https://github.com/il3ven/blogmaker-github-actions) - A very simple solution to host your own blog. It's a fork of @vbuterin's blogmaker. Written in Python.
+5. [Express Simple Stats](https://github.com/il3ven/express-simple-stats) - NPM Library to count requests to your express.js routes. Use it for simple analytics.
+6. [Crowdfunding App](https://github.com/il3ven/Crowdfunding-App) - A decentralized crowdfuding platform. It was a practice project. Created using solidity smart contract and web3.
+7. [ETA for Vaccination](https://github.com/il3ven/ETA-for-vaccination) - A website that shows how long it will take to vaccinate the population of India. Made using React and TypeScript.
 
 <!-- 
 ### Open source contributions
